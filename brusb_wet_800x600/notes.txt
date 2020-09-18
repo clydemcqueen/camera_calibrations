@@ -1,0 +1,3 @@
+Calibrated Friday, 18-Sep-2020 as part of orca2 field test 3 (ft3)
+New dome installed
+Blue Robotics USB camera, 800x600
